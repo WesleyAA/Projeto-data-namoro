@@ -1,0 +1,71 @@
+body{
+
+    background-color: rgb(83, 83, 83);
+    color: rgb(255, 255, 255);
+    text-align: center;
+
+}
+
+h1{
+
+    font: normal 35pt Arial;
+
+}
+
+p{
+
+    font: normal 20pt Arial;
+
+}
+
+div#dias{
+
+    color: rgb(251, 182, 209);
+
+}
+
+div{
+
+    font: normal 20pt Arial;
+    
+
+}
+
+div#dias1{
+    
+    color: rgb(207, 236, 207);
+    padding: 20px;
+
+}
+
+footer{
+
+    color: white;
+    text-align: center;
+    font-style: italic;
+
+}
+
+section{
+
+    background-color: rgb(255, 255, 255);
+    border-radius: 10px;
+    padding: 5px;
+    width: 800px;
+    margin: auto;
+    box-shadow: 5px 5px 10px rgba(0, 0, 0, 0.418);
+
+}
+
+section#sec{
+
+    color: black;
+    margin-top: 20px;
+
+}
+
+p#mini{
+
+    font-size: medium;
+
+}
